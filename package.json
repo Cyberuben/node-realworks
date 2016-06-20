@@ -1,0 +1,23 @@
+{
+  "name": "realworks",
+  "version": "0.0.1",
+  "description": "An implementation of the Realworks XML API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberuben/node-realworks.git"
+  },
+  "author": "Ruben Rutten <ruben@rubenrutten.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cyberuben/node-realworks/issues"
+  },
+  "homepage": "https://github.com/Cyberuben/node-realworks#readme",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "unzip2": "^0.2.5"
+  }
+}
