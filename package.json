@@ -18,7 +18,9 @@
   "homepage": "https://github.com/Cyberuben/node-realworks#readme",
   "dependencies": {
     "cron": "^1.1.0",
+    "deep-diff": "^0.3.4",
     "fs-extra": "^0.30.0",
+    "object-hash": "^1.1.4",
     "unzip2": "^0.2.5",
     "xml2js": "^0.4.16"
   }
