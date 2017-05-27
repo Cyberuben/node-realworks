@@ -1,1 +1,5 @@
-doc
+doc/
+temp/
+*.log
+*.sublime-workspace
+*.sublime-project
