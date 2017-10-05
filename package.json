@@ -1,6 +1,6 @@
 {
   "name": "realworks",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "An implementation of the Realworks XML API",
   "main": "lib/index.js",
   "scripts": {
